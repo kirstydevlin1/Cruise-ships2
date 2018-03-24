@@ -1,0 +1,23 @@
+{
+  "name": "cruise-ships2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kirstydevlin1/Cruise-ships2.git"
+  },
+  "author": "Kirsty Devlin",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "i": "^0.3.6"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
